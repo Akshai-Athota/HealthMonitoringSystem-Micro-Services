@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AppointmentMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BillingMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DoctorMs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NotificationMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PatientRecordMs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PaymentMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServiceRegistry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/patientMicroService/src/main/java" charset="UTF-8" />
+  </component>
+</project>
